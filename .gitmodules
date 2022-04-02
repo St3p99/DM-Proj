@@ -1,0 +1,4 @@
+[submodule "proj/DM-Course"]
+	path = proj/DM-Course
+	url = https://github.com/luciolcv/DM-Course.git
+	branch = main
